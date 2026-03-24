@@ -4,7 +4,7 @@ Price comparison platform for medical cannabis across German pharmacies.
 
 ## What it does
 
-- Aggregates prices and availability from 170+ pharmacies in Germany
+- Aggregates prices and availability from pharmacies across Germany
 - Daily updated data
 - Free to use for patients
 
